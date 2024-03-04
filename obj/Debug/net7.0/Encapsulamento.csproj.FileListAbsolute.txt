@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\bin\Debug\net7.0\Encapsulamento.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\bin\Debug\net7.0\Encapsulamento.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll
